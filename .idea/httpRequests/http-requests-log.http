@@ -1,0 +1,30 @@
+GET http://localhost:8080/memos
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-05-07T213231-1.404.json
+
+###
+
+GET http://localhost:8080/memos
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-05-07T213231.404.json
+
+###
+
+GET http://localhost:8080/memos
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-05-07T211500.404.json
+
+###
+
